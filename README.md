@@ -24,6 +24,7 @@ Welcome to **Vigilantia**, where we are dedicated to **empowering the future wit
 
 ### [Qazan](https://www.vigilantia.fr) 🍔
 
+### Odoo
 Developing a customized version of **Odoo** tailored for the fast-food industry, optimizing workflows, and enhancing operational efficiency.
 
 ## 📫 Connect with Us
