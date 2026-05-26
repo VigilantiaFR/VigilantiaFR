@@ -22,7 +22,10 @@ Welcome to **Vigilantia**, where we are dedicated to **empowering the future wit
 
 ## 💼 Projects
 
-### [Qazan](https://www.vigilantia.fr) 🍔
+### [Qazan](https://www.qazan.pm) 🍔
+
+### [Nava](https://www.allonava.fr) 🍔
+
 
 ### Odoo
 Developing a customized version of **Odoo** tailored for the fast-food industry, optimizing workflows, and enhancing operational efficiency.
